@@ -5,3 +5,10 @@
 ### Lab 2 : Multivariate statistics 
 
 - Chi-squared test of independence
+
+### Lab 3 : Dimension Reduction
+- PCA
+- LDA
+- MDS
+- LLS
+- Isomap
