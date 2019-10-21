@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+sompy/__init__.py
+sompy/sompy.py
+sompy.egg-info/PKG-INFO
+sompy.egg-info/SOURCES.txt
+sompy.egg-info/dependency_links.txt
+sompy.egg-info/requires.txt
+sompy.egg-info/top_level.txt
+sompy.egg-info/zip-safe
